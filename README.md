@@ -35,7 +35,6 @@ Realicé la representación de todas las clases y su interacción en Astah, como
 
 
 
-
 **La planeación de la interaccion de los sistemas presentados**
 Muestro lainteracción de los programas que usaré para poder realizar el parcial desde el fronted hasta el backend conb la base de datos
 
@@ -45,8 +44,36 @@ Muestro lainteracción de los programas que usaré para poder realizar el parcia
 
 
 
+--------------------------------------------------------------------------------------------------------------------------------------
+**BACKEND**
 
- - **`Es la encargada de realizar las pruebas para diversos casos posibles, como su creación y gestión de lo que se tiene en el stock`**
+
+**Modifico el archivo pom.xml integrando mongo, añadiendo Jacoco**
+
+  --Jcoco
+![image](https://github.com/user-attachments/assets/0978c850-a5c5-427e-8c48-ea53beb4fc76)
+
+
+  --MongoDB
+![image](https://github.com/user-attachments/assets/b8e5092e-53ac-411d-8aae-c1cd5c08ef28)
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+**FRONTED**
+
+
+
+
+
+
+
+
+
+
+
+
+**  **
 
    realice varios tipos de Test
   
@@ -67,4 +94,5 @@ Muestro lainteracción de los programas que usaré para poder realizar el parcia
 **Estructura de todo el proyecto con tree**
 --Se puede observar en la imagen la estructura de los archivos creados, en la carpeta parcial02, están almacenados los archivos que contienen las clases de test, el archivo pom.xml, src y target
 
+![image](https://github.com/user-attachments/assets/bab77537-c998-4efa-abd5-5461c68af5f3)
 
