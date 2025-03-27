@@ -44,7 +44,8 @@ Muestro lainteracción de los programas que usaré para poder realizar el parcia
 
 
 
---------------------------------------------------------------------------------------------------------------------------------------
+'--------------------------------------------------------------------------------------------------------------------------------------'
+
 **BACKEND**
 
 
@@ -73,12 +74,13 @@ Muestro lainteracción de los programas que usaré para poder realizar el parcia
 
 
 
-
-
-
 **Creación proyecto MONGODB**
 
 ![image](https://github.com/user-attachments/assets/2512f93e-e504-43fd-a78a-cc8598931819)
+
+
+**Pruebas con Jacoco**
+
 
 
 
