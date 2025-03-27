@@ -64,7 +64,7 @@ Muestro lainteracción de los programas que usaré para poder realizar el parcia
 
 
 
-  --Creacion clases
+  --Creación clases
 
 
 
@@ -74,14 +74,36 @@ Muestro lainteracción de los programas que usaré para poder realizar el parcia
 
 
 
+realicé varios tipos de Test en servicioPagosTest, traté de ser lo mas explicita con la pruebas para cada cosa
+
+![image](https://github.com/user-attachments/assets/6b8f6361-25a3-4118-be9f-559348066243)
+
+  
+  
+
+
+
 **Creación proyecto MONGODB**
 
 ![image](https://github.com/user-attachments/assets/2512f93e-e504-43fd-a78a-cc8598931819)
 
+![image](https://github.com/user-attachments/assets/87098e64-81db-45f3-b0bf-04081d8a46ab)
+
+
+
+
+
+
+
+**Verificación mvn clean**
+
+![image](https://github.com/user-attachments/assets/7724dfde-1b7f-4880-af55-46e31cee2942)
+
+
+
 
 **Pruebas con Jacoco**
-
-
+En las pruebas de Jacoco obtengo el porcentaje
 
 
 
@@ -97,23 +119,6 @@ Para la creación del front la realizaré con HTML desde mi local, teniendo en c
 
 
 
-
-
-**  **
-
-   realice varios tipos de Test
-  
-  
-  
-  
-  AGENTE LOG:
-  
-    - **Debe escribir en stdout cada vez que se modifica el stock de un producto`**:
-    Implementandolo en la clase .java, quedaría**
-
-      ```
-      
-      ```
 
 
 
