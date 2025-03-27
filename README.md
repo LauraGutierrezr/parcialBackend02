@@ -51,21 +51,45 @@ Muestro lainteracción de los programas que usaré para poder realizar el parcia
 **Modifico el archivo pom.xml integrando mongo, añadiendo Jacoco**
 
   --Jcoco
+
+
 ![image](https://github.com/user-attachments/assets/0978c850-a5c5-427e-8c48-ea53beb4fc76)
 
 
   --MongoDB
+
+  
 ![image](https://github.com/user-attachments/assets/b8e5092e-53ac-411d-8aae-c1cd5c08ef28)
+
+
+
+  --Creacion clases
+
+
+
+![image](https://github.com/user-attachments/assets/590ffeaa-f493-456b-bd0e-752aecd87ca0)
+
+
+
+
+
+
+
+
+**Creación proyecto MONGODB**
+
+![image](https://github.com/user-attachments/assets/2512f93e-e504-43fd-a78a-cc8598931819)
+
 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------
 **FRONTED**
 
+Para la creación del front la realizaré con HTML desde mi local, teniendo en cuenta los archivos base que son .css, .js , .HTML tomé una plantilla básica para crearla a las necesidades del parcial y su finalidad
 
 
-
-
+![image](https://github.com/user-attachments/assets/9e08e7e3-8fdf-4836-a721-b26de769b553)
 
 
 
