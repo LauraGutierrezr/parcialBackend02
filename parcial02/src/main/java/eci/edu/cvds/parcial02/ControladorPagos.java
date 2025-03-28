@@ -6,9 +6,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/paAgos")
+@RequestMapping("/api/pagos")
 public class ControladorPagos {
-    
+
     @Autowired
     private ServicioPagos servicioPagos;
 
