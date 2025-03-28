@@ -105,6 +105,7 @@ realicé varios tipos de Test en servicioPagosTest, traté de ser lo mas explici
 **Pruebas con Jacoco**
 En las pruebas de Jacoco obtengo el porcentaje
 
+<img width="1027" src="https://github.com/user-attachments/assets/a5a9cdda-52f1-4c83-9251-9dbb5c6ba56a" />
 
 
 --------------------------------------------------------------------------------------------------------------------------------------
